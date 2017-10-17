@@ -1,1 +1,1 @@
-e1e8f714367077ef6b40c0bf569a2a867de2518cf2299f00b6ced419f4f85370  staticfile_buildpack-cached-v1.4.6.zip
+49378d4ff23bed421e9342e512cdb1d97c646aea784caa6f087a8414d857e652  staticfile_buildpack-cached-v1.4.6.zip
