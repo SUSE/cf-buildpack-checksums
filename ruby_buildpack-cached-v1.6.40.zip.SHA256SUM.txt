@@ -1,1 +1,1 @@
-76261cdddc40fab39e548399aaa430e4d672611ad5628641a797a80b5a3b36f8  ruby_buildpack-cached-v1.6.40.zip
+16990ea6f08d2e3f21ab6518cb329efe43eb52b77d2f3f0ebaee8dd87d3a4edf  ruby_buildpack-cached-v1.6.40.zip
