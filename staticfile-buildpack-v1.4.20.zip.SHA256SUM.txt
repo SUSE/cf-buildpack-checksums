@@ -1,0 +1,1 @@
+194c96684716ad0a8cf1cf171402a86f15bc072202ccfd395af58dd99d8947da  staticfile-buildpack-v1.4.20.zip
