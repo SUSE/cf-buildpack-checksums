@@ -1,0 +1,1 @@
+31e0d890cbc67e33e9242749e5bb6c5d0de26df34e1caf745f2a2dae61e235d4  nodejs-buildpack-v1.6.12.zip
