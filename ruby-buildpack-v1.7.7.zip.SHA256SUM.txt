@@ -1,1 +1,1 @@
-e62fb9c39e89b074ee4bf7757c29b82360386239dfb0c82f856ed1597e7823a0  ruby-buildpack-v1.7.7.zip
+b72bfb9bcd496ede34e4e8c656914ba36c769c73ccf710b42871e03fa48c4a20  ruby-buildpack-v1.7.7.zip
